@@ -1,0 +1,5 @@
+classification_task/
+segmentation_task/
+efficientnet_b0_production.onnx
+best_efficientnet_b0.pth
+*.png
